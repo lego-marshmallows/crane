@@ -1,15 +1,6 @@
 # crane ![Build status badge](https://github.com/lego-marshmallows/crane/workflows/MakeCode/badge.svg)
 
-
-
-## Use this extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open https://makecode.mindstorms.com/
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for the URL of this repository and import
+This program was used with a driving base to drop the blue block in the crane mission in the First LEGO League City Shaper challenge. The robot should start at the corner of the home area pointing at 45deg.
 
 ## Edit this extension
 
