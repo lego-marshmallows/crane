@@ -2,8 +2,8 @@ function goback () {
     motors.largeBC.steer(-20, 50, -1400, MoveUnit.Degrees)
 }
 function turnandrelease () {
-    motors.mediumA.run(20, 55, MoveUnit.Degrees)
-    pause(1000)
+    motors.mediumA.run(20, 60, MoveUnit.Degrees)
+    pause(200)
 }
 function goToTheCrane () {
     motors.largeBC.steer(-12, 50, 1720, MoveUnit.Degrees)
